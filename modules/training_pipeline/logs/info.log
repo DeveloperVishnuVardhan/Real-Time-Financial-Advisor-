@@ -1,0 +1,10 @@
+2024-04-13 12:47:19,238 - INFO - Initializing env vars...
+2024-04-13 12:47:19,238 - INFO - Loading environment variables from: .env
+2024-04-13 12:47:23,592 - INFO - ####################################################################################################
+2024-04-13 12:47:23,629 - INFO - GPU 0 memory available: 7972 MiB
+2024-04-13 12:47:23,631 - INFO - Available RAM: 6.43 GB
+2024-04-13 12:47:23,631 - INFO - ####################################################################################################
+2024-04-13 12:47:23,642 - INFO - Loading QA datasets from self._root_dataset_dir=PosixPath('dataset')
+2024-04-13 12:47:23,889 - INFO - Training dataset size: 125
+2024-04-13 12:47:23,889 - INFO - Validation dataset size: 25
+2024-04-13 12:47:23,889 - INFO - Loading model using self._model_id='tiiuae/falcon-7b-instruct'

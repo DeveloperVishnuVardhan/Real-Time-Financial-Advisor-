@@ -1,0 +1,1 @@
+This Project was built by following the repo of: https://github.com/iusztinpaul/hands-on-llms. please refer to it from more info its a great resource to learn LlmOps.

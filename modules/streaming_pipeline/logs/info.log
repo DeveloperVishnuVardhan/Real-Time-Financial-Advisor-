@@ -1,0 +1,13 @@
+2024-04-13 20:15:38,802 - INFO - Initializing env vars...
+2024-04-13 20:15:38,803 - INFO - Loading environment variables from: .env
+2024-04-13 20:29:35,570 - INFO - Initializing env vars...
+2024-04-13 20:29:35,570 - INFO - Loading environment variables from: .env
+2024-04-13 20:29:41,552 - INFO - HTTP Request: GET https://dab8e415-efbf-4f38-abc9-06c6eb71ba2c.us-east4-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 404 Not Found"
+2024-04-13 20:29:41,601 - INFO - HTTP Request: DELETE https://dab8e415-efbf-4f38-abc9-06c6eb71ba2c.us-east4-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-04-13 20:29:41,756 - INFO - HTTP Request: PUT https://dab8e415-efbf-4f38-abc9-06c6eb71ba2c.us-east4-0.gcp.cloud.qdrant.io:6333/collections/alpaca_financial_news "HTTP/2 200 OK"
+2024-04-13 20:29:41,979 - INFO - [AlpacaNewsStream]: Received message: [{"T":"success","msg":"connected"}]
+2024-04-13 20:29:41,979 - INFO - [AlpacaNewsStream]: Connected to Alpaca News Stream.
+2024-04-13 20:29:42,065 - INFO - [AlpacaNewsStream]: Received message: [{"T":"success","msg":"authenticated"}]
+2024-04-13 20:29:42,066 - INFO - [AlpacaNewsStream]: Authenticated with Alpaca News Stream.
+2024-04-13 20:29:42,092 - INFO - [AlpacaNewsStream]: Received message: [{"T":"subscription","news":["*"]}]
+2024-04-13 20:29:42,093 - INFO - [AlpacaNewsStream]: Subscribed to Alpaca News Stream.
