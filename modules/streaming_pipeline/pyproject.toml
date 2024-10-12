@@ -2,7 +2,7 @@
 name = "streaming-pipeline"
 version = "0.1.0"
 description = ""
-authors = ["iusztinpaul <p.e.iusztin@gmail.com>"]
+authors = [""]
 readme = "README.md"
 packages = [{include = "streaming_pipeline"}]
 
